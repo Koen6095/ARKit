@@ -13,7 +13,13 @@ The TODO list is just for you to know what I’m planning to implement.
 * Searching for QR Codes through Vision framework
 * Adding 3D object on found QR Code through ARKit framework
 
-## TODO
+### Targets (QR Codes)
+
+These QR Codes are used as a target to add a 3D object. The payload of the QR Codes are respectively ‘target_1’ and ‘target_2’.
+
+![image as target 1](https://image.ibb.co/iYZ8Lw/target_1.png) ![image as target 2](https://image.ibb.co/dFJJLw/target_2.png)
+
+### TODO
 
 * Give the user some nice feedback when searching for planes
 * Placing the 3D objects right on the QR Code - currently a little bit moved
