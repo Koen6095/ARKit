@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.1 (swiftlang-900.0.66 clang-900.0.37)"
+options: "136a87af1d0c8102a3b427eaf0cc72cf"
+build_time: [1510130129, 296888000]
+inputs:
+  "/Users/Koen/Desktop/ARKit/ARKitTest/UIViewControllerUtils.swift": [1503915234, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/HomeHeroViewController.swift": [1509712626, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/AppDelegate.swift": [1503915232, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/SelectableButton.swift": [1503915234, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/SCNNodeHelpers.swift": [1503915234, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/File.swift": [1509701713, 0]
+  "/Users/Koen/Desktop/ARKit/ARKitTest/SCNVector3Math.swift": [1503915234, 0]
+  "/Users/Koen/Desktop/ARKit/DerivedData/ARKitTest/Build/Intermediates.noindex/ARKitTest.build/Debug-iphoneos/ARKitTest.build/DerivedSources/CoreMLGenerated/Inceptionv3/Inceptionv3.swift": [1510130129, 0]
