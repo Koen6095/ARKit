@@ -176,7 +176,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @import ARKit;
 @import SceneKit;
 @import Foundation;
-@import CoreGraphics;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -188,24 +187,14 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Wnullability"
 
 SWIFT_MODULE_NAMESPACE_PUSH("ARKitTest")
-@class UIWindow;
-@class UIApplication;
-
-SWIFT_CLASS("_TtC9ARKitTest11AppDelegate")
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-@property (nonatomic, strong) UIWindow * _Nullable window;
-- (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
 @class ARSCNView;
 @class UIView;
 @class UILabel;
 @class NSBundle;
 @class NSCoder;
 
-SWIFT_CLASS("_TtC9ARKitTest22HomeHeroViewController")
-@interface HomeHeroViewController : UIViewController
+SWIFT_CLASS("_TtC9ARKitTest23ARKitTestViewController")
+@interface ARKitTestViewController : UIViewController
 @property (nonatomic, strong) IBOutlet ARSCNView * _Null_unspecified sceneView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified crosshair;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified messageLabel;
@@ -221,7 +210,7 @@ SWIFT_CLASS("_TtC9ARKitTest22HomeHeroViewController")
 @class ARAnchor;
 @class ARSession;
 
-@interface HomeHeroViewController (SWIFT_EXTENSION(ARKitTest)) <ARSCNViewDelegate>
+@interface ARKitTestViewController (SWIFT_EXTENSION(ARKitTest)) <ARSCNViewDelegate>
 - (void)renderer:(id <SCNSceneRenderer> _Nonnull)renderer didAddNode:(SCNNode * _Nonnull)node forAnchor:(ARAnchor * _Nonnull)anchor;
 - (void)renderer:(id <SCNSceneRenderer> _Nonnull)renderer didUpdateNode:(SCNNode * _Nonnull)node forAnchor:(ARAnchor * _Nonnull)anchor;
 - (void)renderer:(id <SCNSceneRenderer> _Nonnull)renderer didRemoveNode:(SCNNode * _Nonnull)node forAnchor:(ARAnchor * _Nonnull)anchor;
@@ -231,15 +220,15 @@ SWIFT_CLASS("_TtC9ARKitTest22HomeHeroViewController")
 - (void)sessionInterruptionEnded:(ARSession * _Nonnull)session;
 @end
 
+@class UIWindow;
+@class UIApplication;
 
-SWIFT_CLASS("_TtC9ARKitTest16SelectableButton")
-@interface SelectableButton : UIButton
-@property (nonatomic, getter=isSelected) BOOL selected;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+SWIFT_CLASS("_TtC9ARKitTest11AppDelegate")
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@property (nonatomic, strong) UIWindow * _Nullable window;
+- (BOOL)application:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
-
 
 SWIFT_MODULE_NAMESPACE_POP
 #pragma clang diagnostic pop

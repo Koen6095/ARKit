@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rqVFVe0VItYMZsEBt+YtxbCIX9M=
+		pRVVRinZUu1Jef84tfZglTwCzug=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		+7fDtV3WVC4VnKuDWeJYhZMhAtM=
+		tPyWwcn2b5P1VXyAKSFnfXTkA0o=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		GMsid5grDT4HnjS5Ug4TAobTSDo=
+		LdK8ZuFGLqjYbSsm4kXWsRtIN5Q=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BV1-FR-VrT-view-QlH-Bh-kNZ.nib</key>
 		<data>
-		rqFQi3U0PgIcSwgUhQanMbXDRkA=
+		NBDtIp/9xRiIpNs0sU+5h5wZD48=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BV1-FR-VrT.nib</key>
 		<data>
-		pCLyRuDHcBsPnfFsTIbX0QI2Sh4=
+		ProwJsGrSzpmnlAOptuWpFWASq0=
 		</data>
 		<key>Frameworks/libswiftARKit.dylib</key>
 		<data>
@@ -146,7 +146,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CYAISeVc4BgFAwwhZdZsdzQFRdI=
+		tB7uBZwyfOmnfmyzisikuQ2Y6/U=
+		</data>
+		<key>Models.scnassets/.DS_Store</key>
+		<data>
+		WWXs/Vjq3NfhNO2A9zMkLqiUNzI=
 		</data>
 		<key>Models.scnassets/candle/candle.scn</key>
 		<data>
@@ -227,22 +231,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rqVFVe0VItYMZsEBt+YtxbCIX9M=
+			pRVVRinZUu1Jef84tfZglTwCzug=
 			</data>
 			<key>hash2</key>
 			<data>
-			HL/rj3ItXgfWOMAnvGJmQbJQr7qXsLNI+jDz5wx5F3I=
+			42uFLBIjcDJdldWH5Dcne17IzO8/jJnZsZvYgrH60JM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+7fDtV3WVC4VnKuDWeJYhZMhAtM=
+			tPyWwcn2b5P1VXyAKSFnfXTkA0o=
 			</data>
 			<key>hash2</key>
 			<data>
-			KmqNFvX5AY2V5d5b4Bxqt678mxgsXq7WS0K8RgfEvWg=
+			8M/OfA7qY9q8AevdT4xhSwz9NgAaknskFr60Jtmu0RU=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -260,22 +264,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GMsid5grDT4HnjS5Ug4TAobTSDo=
+			LdK8ZuFGLqjYbSsm4kXWsRtIN5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			NfG7jyBCFJVCrXwLKsc6kyoxlJB3g+Iiv0SXNN/h6jI=
+			230BiC2NH/4E1FffGGc/+xNRZE/DSF3JcsQz40S0ShM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BV1-FR-VrT-view-QlH-Bh-kNZ.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rqFQi3U0PgIcSwgUhQanMbXDRkA=
+			NBDtIp/9xRiIpNs0sU+5h5wZD48=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z33lpP4nhJhRBSi/cm0F3klDQ8vkRu2X56LBf3KIPFI=
+			TXPeV1IPuWoWOgvo3xKPsayNr7uD0Cktv3vP8ndGRf4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -293,11 +297,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pCLyRuDHcBsPnfFsTIbX0QI2Sh4=
+			ProwJsGrSzpmnlAOptuWpFWASq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Q2PrDajguJX4usCNWUzRUrA1aK+p3sagZ68yCh+1ug4=
+			8eno455MRb98DulKlVHsTeZGSoW3NOrfZKTYArqc+Jo=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftARKit.dylib</key>

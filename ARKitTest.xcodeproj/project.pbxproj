@@ -8,35 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		21507AC01F013BE1000EE9D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21507ABF1F013BE1000EE9D7 /* AppDelegate.swift */; };
-		21507AC41F013BE1000EE9D7 /* HomeHeroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21507AC31F013BE1000EE9D7 /* HomeHeroViewController.swift */; };
+		21507AC41F013BE1000EE9D7 /* ARKitTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21507AC31F013BE1000EE9D7 /* ARKitTestViewController.swift */; };
 		21507AC71F013BE1000EE9D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21507AC51F013BE1000EE9D7 /* Main.storyboard */; };
 		21507AC91F013BE1000EE9D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21507AC81F013BE1000EE9D7 /* Assets.xcassets */; };
 		21507ACC1F013BE1000EE9D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21507ACA1F013BE1000EE9D7 /* LaunchScreen.storyboard */; };
 		3F24E68F1F091ADA00E11D67 /* Models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F24E68E1F09194B00E11D67 /* Models.scnassets */; };
-		3F24E6931F096A6300E11D67 /* SCNVector3Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F24E6921F096A6300E11D67 /* SCNVector3Math.swift */; };
-		3F24E6951F09A52900E11D67 /* SelectableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F24E6941F09A52900E11D67 /* SelectableButton.swift */; };
 		3F82F21D1F1A6E8500BC6561 /* SCNNodeHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F82F21C1F1A6E5E00BC6561 /* SCNNodeHelpers.swift */; };
-		3FAB3A331F0AADFB00E7F079 /* UIViewControllerUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FAB3A321F0AADFB00E7F079 /* UIViewControllerUtils.swift */; };
-		5D64F8A31FA9C39B00E6560D /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5D64F8A21FA9C39A00E6560D /* Inceptionv3.mlmodel */; };
-		5D8760231FAC6FD100D1E933 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8760221FAC6FD100D1E933 /* File.swift */; };
 		5DA59BB01FAB284700BED764 /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DA59BAF1FAB284700BED764 /* grid.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		21507ABC1F013BE1000EE9D7 /* ARKitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21507ABF1F013BE1000EE9D7 /* AppDelegate.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; tabWidth = 2; };
-		21507AC31F013BE1000EE9D7 /* HomeHeroViewController.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = HomeHeroViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
+		21507AC31F013BE1000EE9D7 /* ARKitTestViewController.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = ARKitTestViewController.swift; sourceTree = "<group>"; tabWidth = 2; };
 		21507AC61F013BE1000EE9D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		21507AC81F013BE1000EE9D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21507ACB1F013BE1000EE9D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21507ACD1F013BE1000EE9D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F24E68E1F09194B00E11D67 /* Models.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Models.scnassets; sourceTree = "<group>"; };
-		3F24E6921F096A6300E11D67 /* SCNVector3Math.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = SCNVector3Math.swift; sourceTree = "<group>"; tabWidth = 2; };
-		3F24E6941F09A52900E11D67 /* SelectableButton.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = SelectableButton.swift; sourceTree = "<group>"; tabWidth = 2; };
 		3F82F21C1F1A6E5E00BC6561 /* SCNNodeHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCNNodeHelpers.swift; sourceTree = "<group>"; };
-		3FAB3A321F0AADFB00E7F079 /* UIViewControllerUtils.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = UIViewControllerUtils.swift; sourceTree = "<group>"; tabWidth = 2; };
-		5D64F8A21FA9C39A00E6560D /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
-		5D8760221FAC6FD100D1E933 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		5DA59BAF1FAB284700BED764 /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grid.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,19 +61,14 @@
 			isa = PBXGroup;
 			children = (
 				21507ABF1F013BE1000EE9D7 /* AppDelegate.swift */,
-				21507AC31F013BE1000EE9D7 /* HomeHeroViewController.swift */,
+				21507AC31F013BE1000EE9D7 /* ARKitTestViewController.swift */,
 				21507AC51F013BE1000EE9D7 /* Main.storyboard */,
 				3F24E68E1F09194B00E11D67 /* Models.scnassets */,
 				21507AC81F013BE1000EE9D7 /* Assets.xcassets */,
 				5DA59BAF1FAB284700BED764 /* grid.png */,
 				21507ACA1F013BE1000EE9D7 /* LaunchScreen.storyboard */,
 				21507ACD1F013BE1000EE9D7 /* Info.plist */,
-				3F24E6921F096A6300E11D67 /* SCNVector3Math.swift */,
-				3F24E6941F09A52900E11D67 /* SelectableButton.swift */,
-				3FAB3A321F0AADFB00E7F079 /* UIViewControllerUtils.swift */,
 				3F82F21C1F1A6E5E00BC6561 /* SCNNodeHelpers.swift */,
-				5D64F8A21FA9C39A00E6560D /* Inceptionv3.mlmodel */,
-				5D8760221FAC6FD100D1E933 /* File.swift */,
 			);
 			path = ARKitTest;
 			sourceTree = "<group>";
@@ -161,14 +146,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FAB3A331F0AADFB00E7F079 /* UIViewControllerUtils.swift in Sources */,
-				21507AC41F013BE1000EE9D7 /* HomeHeroViewController.swift in Sources */,
+				21507AC41F013BE1000EE9D7 /* ARKitTestViewController.swift in Sources */,
 				21507AC01F013BE1000EE9D7 /* AppDelegate.swift in Sources */,
-				3F24E6951F09A52900E11D67 /* SelectableButton.swift in Sources */,
 				3F82F21D1F1A6E8500BC6561 /* SCNNodeHelpers.swift in Sources */,
-				5D8760231FAC6FD100D1E933 /* File.swift in Sources */,
-				3F24E6931F096A6300E11D67 /* SCNVector3Math.swift in Sources */,
-				5D64F8A31FA9C39B00E6560D /* Inceptionv3.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
