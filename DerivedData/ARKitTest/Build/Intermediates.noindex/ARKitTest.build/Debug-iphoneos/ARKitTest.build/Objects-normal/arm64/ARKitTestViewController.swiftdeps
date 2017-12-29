@@ -299,7 +299,6 @@ depends-member:
 - !private ["s7CVarArgP", "extent"]
 - !private ["s7CVarArgP", "fatalError"]
 - !private ["s7CVarArgP", "first"]
-- !private ["s7CVarArgP", "geometry"]
 - !private ["s7CVarArgP", "green"]
 - !private ["s7CVarArgP", "handleBarcodes"]
 - !private ["s7CVarArgP", "hitTest"]
@@ -391,7 +390,6 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "extent"]
 - !private ["s28CustomDebugStringConvertibleP", "fatalError"]
 - !private ["s28CustomDebugStringConvertibleP", "first"]
-- !private ["s28CustomDebugStringConvertibleP", "geometry"]
 - !private ["s28CustomDebugStringConvertibleP", "green"]
 - !private ["s28CustomDebugStringConvertibleP", "handleBarcodes"]
 - !private ["s28CustomDebugStringConvertibleP", "height"]
@@ -496,7 +494,6 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "extent"]
 - !private ["s23CustomStringConvertibleP", "fatalError"]
 - !private ["s23CustomStringConvertibleP", "first"]
-- !private ["s23CustomStringConvertibleP", "geometry"]
 - !private ["s23CustomStringConvertibleP", "green"]
 - !private ["s23CustomStringConvertibleP", "handleBarcodes"]
 - !private ["s23CustomStringConvertibleP", "hitTest"]
@@ -605,7 +602,6 @@ depends-member:
 - !private ["s9EquatableP", "existingPlaneUsingExtent"]
 - !private ["s9EquatableP", "extent"]
 - !private ["s9EquatableP", "fatalError"]
-- !private ["s9EquatableP", "geometry"]
 - !private ["s9EquatableP", "green"]
 - !private ["s9EquatableP", "handleBarcodes"]
 - !private ["s9EquatableP", "height"]
@@ -714,7 +710,6 @@ depends-member:
 - ["s8HashableP", "excessiveMotion"]
 - !private ["s8HashableP", "extent"]
 - !private ["s8HashableP", "fatalError"]
-- !private ["s8HashableP", "geometry"]
 - !private ["s8HashableP", "green"]
 - !private ["s8HashableP", "handleBarcodes"]
 - !private ["s8HashableP", "hitTest"]
@@ -793,7 +788,6 @@ depends-member:
 - !private ["So8NSCodingP", "delegate"]
 - !private ["So8NSCodingP", "diffuse"]
 - !private ["So8NSCodingP", "fatalError"]
-- !private ["So8NSCodingP", "geometry"]
 - !private ["So8NSCodingP", "green"]
 - !private ["So8NSCodingP", "handleBarcodes"]
 - !private ["So8NSCodingP", "hitTest"]
@@ -835,7 +829,6 @@ depends-member:
 - !private ["So9NSCopyingP", "childNodes"]
 - !private ["So9NSCopyingP", "diffuse"]
 - !private ["So9NSCopyingP", "extent"]
-- !private ["So9NSCopyingP", "geometry"]
 - !private ["So9NSCopyingP", "green"]
 - !private ["So9NSCopyingP", "init"]
 - !private ["So9NSCopyingP", "isLightEstimationEnabled"]
@@ -950,7 +943,6 @@ depends-member:
 - !private ["So8NSObjectC", "diffuse"]
 - !private ["So8NSObjectC", "extent"]
 - !private ["So8NSObjectC", "fatalError"]
-- !private ["So8NSObjectC", "geometry"]
 - !private ["So8NSObjectC", "green"]
 - ["So8NSObjectC", "handleBarcodes"]
 - !private ["So8NSObjectC", "hitTest"]
@@ -1031,7 +1023,6 @@ depends-member:
 - !private ["So16NSObjectProtocolP", "diffuse"]
 - !private ["So16NSObjectProtocolP", "extent"]
 - !private ["So16NSObjectProtocolP", "fatalError"]
-- !private ["So16NSObjectProtocolP", "geometry"]
 - !private ["So16NSObjectProtocolP", "green"]
 - !private ["So16NSObjectProtocolP", "handleBarcodes"]
 - !private ["So16NSObjectProtocolP", "hitTest"]
@@ -1079,7 +1070,6 @@ depends-member:
 - !private ["So14NSSecureCodingP", "childNodes"]
 - !private ["So14NSSecureCodingP", "contents"]
 - !private ["So14NSSecureCodingP", "diffuse"]
-- !private ["So14NSSecureCodingP", "geometry"]
 - !private ["So14NSSecureCodingP", "green"]
 - !private ["So14NSSecureCodingP", "init"]
 - !private ["So14NSSecureCodingP", "materials"]
@@ -1111,7 +1101,6 @@ depends-member:
 - !private ["So13SCNActionableP", "addChildNode"]
 - !private ["So13SCNActionableP", "childNode"]
 - !private ["So13SCNActionableP", "childNodes"]
-- !private ["So13SCNActionableP", "geometry"]
 - !private ["So13SCNActionableP", "init"]
 - !private ["So13SCNActionableP", "position"]
 - !private ["So13SCNActionableP", "removeFromParentNode"]
@@ -1120,7 +1109,6 @@ depends-member:
 - !private ["So13SCNAnimatableP", "childNodes"]
 - !private ["So13SCNAnimatableP", "contents"]
 - !private ["So13SCNAnimatableP", "diffuse"]
-- !private ["So13SCNAnimatableP", "geometry"]
 - !private ["So13SCNAnimatableP", "init"]
 - !private ["So13SCNAnimatableP", "materials"]
 - !private ["So13SCNAnimatableP", "position"]
@@ -1128,7 +1116,6 @@ depends-member:
 - !private ["So17SCNBoundingVolumeP", "addChildNode"]
 - !private ["So17SCNBoundingVolumeP", "childNode"]
 - !private ["So17SCNBoundingVolumeP", "childNodes"]
-- !private ["So17SCNBoundingVolumeP", "geometry"]
 - !private ["So17SCNBoundingVolumeP", "init"]
 - !private ["So17SCNBoundingVolumeP", "materials"]
 - !private ["So17SCNBoundingVolumeP", "position"]
@@ -1141,7 +1128,6 @@ depends-member:
 - !private ["So7SCNNodeC", "addChildNode"]
 - !private ["So7SCNNodeC", "childNode"]
 - !private ["So7SCNNodeC", "childNodes"]
-- !private ["So7SCNNodeC", "geometry"]
 - !private ["So7SCNNodeC", "init"]
 - !private ["So7SCNNodeC", "position"]
 - !private ["So7SCNNodeC", "removeFromParentNode"]
@@ -1378,7 +1364,6 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "debugOptions"]
 - !private ["So18UIFocusEnvironmentP", "delegate"]
 - !private ["So18UIFocusEnvironmentP", "fatalError"]
-- !private ["So18UIFocusEnvironmentP", "geometry"]
 - !private ["So18UIFocusEnvironmentP", "handleBarcodes"]
 - !private ["So18UIFocusEnvironmentP", "hitTest"]
 - !private ["So18UIFocusEnvironmentP", "init"]
@@ -1414,7 +1399,6 @@ depends-member:
 - !private ["So11UIFocusItemP", "childNodes"]
 - !private ["So11UIFocusItemP", "debugOptions"]
 - !private ["So11UIFocusItemP", "delegate"]
-- !private ["So11UIFocusItemP", "geometry"]
 - !private ["So11UIFocusItemP", "hitTest"]
 - !private ["So11UIFocusItemP", "init"]
 - !private ["So11UIFocusItemP", "position"]
@@ -1840,7 +1824,6 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "diffuse"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "extent"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "fatalError"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "geometry"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "green"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "handleBarcodes"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "hitTest"]
@@ -2048,44 +2031,27 @@ depends-nominal:
 - !private "SC13simd_float4x4V"
 depends-dynamic-lookup:
 depends-external:
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ModelIO.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Vision.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ARKit.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SceneKit.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SpriteKit.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreML.framework/Headers/CoreML.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Vision.framework/Headers/Vision.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
-- "/Users/Koen/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ModelIO.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Vision.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ARKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SceneKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SpriteKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
 interface-hash: "21c935cd5c0a734680a9ff3b4e270d29"

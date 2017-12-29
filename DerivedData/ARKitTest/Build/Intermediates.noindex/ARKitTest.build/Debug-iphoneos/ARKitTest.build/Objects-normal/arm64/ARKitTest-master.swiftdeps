@@ -1,7 +1,7 @@
-version: "Apple Swift version 4.0.1 (swiftlang-900.0.66 clang-900.0.37)"
-options: "3d323f6a7e2aad490a3b381a15253164"
-build_time: [1510568432, 559051000]
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "8d79101c9647cc89b3c0618ee2cde211"
+build_time: [1514544618, 524448000]
 inputs:
-  "/Users/Koen/Documents/Development/ARKitTest/ARKitTest/ARKitTestViewController.swift": [1510568395, 0]
-  "/Users/Koen/Documents/Development/ARKitTest/ARKitTest/AppDelegate.swift": [1503915232, 0]
-  "/Users/Koen/Documents/Development/ARKitTest/ARKitTest/SCNNodeHelpers.swift": [1510568410, 0]
+  "/Users/Koen/Documents/6. Development/ARKitTest/ARKitTest/ARKitTestViewController.swift": [1514544618, 0]
+  "/Users/Koen/Documents/6. Development/ARKitTest/ARKitTest/AppDelegate.swift": [1503915232, 0]
+  "/Users/Koen/Documents/6. Development/ARKitTest/ARKitTest/SCNNodeHelpers.swift": [1510568410, 0]

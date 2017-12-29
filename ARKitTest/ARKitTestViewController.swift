@@ -100,7 +100,7 @@ class ARKitTestViewController: UIViewController {
           
           let screenCentre : CGPoint = CGPoint(x: self.sceneView.bounds.midX, y: self.sceneView.bounds.midY)
           let hitTestResults = sceneView.hitTest(screenCentre, types: [.existingPlaneUsingExtent])
-          
+
           //check payload
           if let hitResult = hitTestResults.first {
             
@@ -116,7 +116,7 @@ class ARKitTestViewController: UIViewController {
             // Holder node
             let node = SCNNode()
             //node.transform = SCNMatrix4MakeRotation(-Float.pi / 2, 1, 0, 0)
-            node.geometry = plane
+            //node.geometry = plane
             sceneView.scene.rootNode.addChildNode(node)
             node.position = worldCoord
             
